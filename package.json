@@ -1,9 +1,13 @@
 {
+<<<<<<< HEAD:helloworld/package.json
 <<<<<<< HEAD
   "name": "helloworld",
 =======
   "name": "demo",
 >>>>>>> 8a7b801d81ee92b86453cd57a4e951dad445f4e2
+=======
+  "name": "demo",
+>>>>>>> 8a7b801d81ee92b86453cd57a4e951dad445f4e2:package.json
   "private": true,
   "version": "0.0.0",
   "type": "module",
